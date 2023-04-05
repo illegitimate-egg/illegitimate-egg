@@ -38,8 +38,9 @@ Good question, I havn't worked that one out either.
 
 ---
 ### Profile Statistics:
-[![](https://github-readme-stats.vercel.app/api?username=illegitimate-egg&theme=dark&show_icons=true)](https://git.io/streak-stats)
-
-[![](http://github-readme-streak-stats.herokuapp.com?user=illegitimate-egg&theme=black-ice)](https://git.io/streak-stats)
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=illegitimate-egg&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=illegitimate-egg&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=illegitimate-egg&theme=github_dark&exclude=lua,TeX)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=illegitimate-egg&theme=github_dark&exclude=lua,TeX)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=illegitimate-egg&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=illegitimate-egg&theme=github_dark&utcOffset=0)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-readme-streak-stats.herokuapp.com?user=illegitimate-egg&theme=github-dark)](https://git.io/streak-stats)
