@@ -1,1 +1,1 @@
-# Duke
+# [Duke](https://dukesyndicate.org/)
