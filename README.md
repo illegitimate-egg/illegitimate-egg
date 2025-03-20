@@ -8,7 +8,7 @@
   </samp>
 </p>
 
-Wsg, I write software on occaision. The problem without about is pages is that you have to know things about yourself.
+Wsg, I write software on occasion. The problem without about is pages is that you have to know things about yourself.
 
 <table width="960px">
 <tr>
